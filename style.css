@@ -48,6 +48,7 @@ article footer {
   display: flex;
   flex-direction: column;
   gap: 0.3rem;
+  margin-bottom: 0.7rem;
 }
 
 article h2 {
